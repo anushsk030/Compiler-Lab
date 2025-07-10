@@ -1,0 +1,11 @@
+int a=5; // this is a comment
+{
+/* multi-line
+comment */
+}
+int b=6.6;
+int d = a*b;
+if(a<b){
+printf(equal);
+
+}
